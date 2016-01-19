@@ -1,5 +1,5 @@
 ##Parts to buy
-* 18mm ZnSe lens
+* 18mm ZnSe lens (ordered from Amazon)
 * Compressor?
 * 50KV Silicone wiring (1M)
 * Exhaust parts
@@ -8,6 +8,7 @@
   * Hard ducting
   * Hard flexible ducting
 * Whatever for the bed
+* new
 
 ---
 
