@@ -117,7 +117,7 @@
 #define LASER_WATTS 40.0
 #define LASER_DIAMETER 0.1 // milimeters
 #define LASER_PWM 50000 // hertz
-#define LASER_FOCAL_HEIGHT 74.50 // z axis position at which the laser is focused
+#define LASER_FOCAL_HEIGHT 50.8 // z axis position at which the laser is focused
 
 //===========================================================================
 //=============================Thermal Settings  ============================
@@ -315,8 +315,8 @@ const bool Z_MAX_ENDSTOP_INVERTING = false; // set to true to invert the logic o
 #define E_ENABLE_ON 0 // For all extruders
 
 // Disables axis when it's not being used.
-#define DISABLE_X true
-#define DISABLE_Y true
+#define DISABLE_X false
+#define DISABLE_Y false
 #define DISABLE_Z true
 #define DISABLE_E true // For all extruders
 
